@@ -1,5 +1,5 @@
 from unittest import TestCase, main
-from DopLabs.ex16 import KMaxStructure
+from dopTasks.ex16 import KMaxStructure
 
 
 class Test(TestCase):

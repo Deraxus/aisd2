@@ -1,5 +1,5 @@
 from unittest import TestCase, main
-from NewLabs.ex13 import count_components, parse_input, write_output
+from lab3.ex13 import count_components, parse_input, write_output
 
 
 class Test(TestCase):

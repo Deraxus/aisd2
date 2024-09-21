@@ -1,5 +1,5 @@
 from unittest import TestCase, main
-from NewLabs.ex16 import detect_cycles, parse_input, write_output
+from lab3.ex16 import detect_cycles, parse_input, write_output
 
 
 

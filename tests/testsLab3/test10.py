@@ -1,5 +1,5 @@
 from unittest import TestCase, main
-from NewLabs.ex10 import ford_bellman, parse_input, write_output
+from lab3.ex10 import ford_bellman, parse_input, write_output
 
 
 class Test(TestCase):

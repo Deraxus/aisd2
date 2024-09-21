@@ -1,5 +1,5 @@
 from unittest import TestCase, main
-from NewLabs.ex12 import labyrinth, parse_input, write_output
+from lab3.ex12 import labyrinth, parse_input, write_output
 
 
 class Test(TestCase):

@@ -1,5 +1,5 @@
 from unittest import TestCase, main
-from NewLabs.ex5 import unitFunc
+from lab3.ex5 import unitFunc
 
 
 class Test(TestCase):

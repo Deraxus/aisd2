@@ -1,5 +1,5 @@
 from unittest import TestCase, main
-from DopLabs.ex7 import max_boots
+from dopTasks.ex7 import max_boots
 
 
 class Test(TestCase):

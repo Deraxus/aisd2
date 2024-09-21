@@ -1,5 +1,5 @@
 from unittest import TestCase, main
-from NewLabs.ex9 import read_graph_from_file, negative_cycles, write_result_to_file
+from lab3.ex9 import read_graph_from_file, negative_cycles, write_result_to_file
 
 
 class Test(TestCase):

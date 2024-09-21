@@ -1,5 +1,5 @@
 from unittest import TestCase, main
-from DopLabs.ex17 import count_phone_numbers
+from dopTasks.ex17 import count_phone_numbers
 
 
 class Test(TestCase):
